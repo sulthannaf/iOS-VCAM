@@ -1,9 +1,7 @@
-https://github.com/trizau/iPhone-VCAM
-
-https://lzsxcl.github.io/repo/
-
 # iOS-VCAM
 Fake Camera from Gallery
+
+Repo : https://lzsxcl.github.io/repo/
 
 Support iOS 14-16 Rootful Rootless
 
