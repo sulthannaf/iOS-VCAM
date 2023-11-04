@@ -4,4 +4,7 @@ https://lzsxcl.github.io/repo/
 # iOS-VCAM
 Fake Camera from Gallery
 
-Discord: sulthannaf * Telegram https://t.me/jailcrek
+For License Lifetime Contact
+ • Discord  : sulthannaf
+ • Telegram : sulthannaf 
+ • Telegram Channel : https://t.me/jailcrek
