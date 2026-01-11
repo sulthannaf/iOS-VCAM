@@ -14,6 +14,8 @@ Uncover Rootful
 
 Palera1n Rootless
 
+Palera1n Roothide
+
 Dopamine1 Dopamine2
 
 Dopamine1 Dopamine2 Roothide
@@ -25,6 +27,7 @@ Not Support:
 RTMP
 Webcam
 Streaming Website
+Website
 
 
 if want test on another JB, you can try it 💥
