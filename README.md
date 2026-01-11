@@ -23,10 +23,6 @@ Streaming Website
 Website
 
 if want test on another JB, you can try it 💥
-
- • Discord  : sulthannaf
- 
- • Telegram : sulthannaf 
- 
- • Telegram Channel : https://t.me/jailcrek https://t.me/w2proo
- 
+- Discord  : sulthannaf
+- Telegram : sulthannaf
+- Telegram Channel : https://t.me/jailcrek https://t.me/w2proo
