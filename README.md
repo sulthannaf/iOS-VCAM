@@ -5,7 +5,7 @@ Video Only No Sound
 
 W2 Pro
 Old Repo : https://lzsxcl.github.io/repo/ (was not using)
-New Server : New W2 Pro 0.8 .deb
+New Server : New Version W2 Pro
 
 Old Server Using W2 Pro License
 New Server Using W2ProToken.txt File Activation
