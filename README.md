@@ -4,7 +4,10 @@ Fake Camera from Gallery
 Video Only No Sound
 
 W2 Pro
-Repo : https://lzsxcl.github.io/repo/
+Old Repo : https://lzsxcl.github.io/repo/ (was not using)
+
+Old Server Using W2 Pro License
+New Server Using W2ProToken.txt File Activation
 
 License Lifetime Locked by Serial Number and UDID
 
@@ -17,10 +20,10 @@ Support:
 - Xina1 Xina2
 
 Not Support:
-RTMP
-Webcam
-Streaming Website
-Website
+- RTMP
+- Webcam
+- Streaming Website
+- Website
 
 if want test on another JB, you can try it 💥
 - Discord  : sulthannaf
